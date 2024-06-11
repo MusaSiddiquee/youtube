@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+.home ul li
+{
+    list-style: none;
+    margin-top: 10px;
+}
+.home
+{
+    margin-left: 25px;
+}
+.home ul li
+{
+   margin-top: 17px;
+   margin-bottom: 3px;
+
+}
+hr
+{
+    width: 160px;
+    margin-left: 4px;
+    color: rgb(249, 240, 240);
+}
+.main
+{
+    /* border: solid 1px black; */
+    height: 700px;
+    width: 200px;
+}
+.ex
+{
+    margin-top: 6px;
+}
+.ul
+{
+    margin-bottom: 20px;
+}
+li:hover
+{
+    background-color:#d0cccc ;
+    height:24px;
+    width:130px;
+    cursor:pointer;
+    border-radius: 5px;
+}
+.sign
+{
+    margin-top: 13px;
+    margin-bottom:13px;
+}
+.in
+{
+    background-color: #fff;
+    width: 80px;
+    height: 30px;
+    border-radius: 16px;
+    border:solid 1px rgb(220, 214, 214);
+    color: rgb(124, 124, 255);
+}
+.ab
+{
+    margin-bottom: 10px;
+}
+.ab:hover
+{
+    color: rgb(141, 141, 251);
+    cursor: pointer;
+}
+.a:hover
+{
+    color: rgb(136, 136, 254);
+    cursor: pointer;
+}
+.ex:hover
+{
+    cursor: pointer;
+    color: rgb(129, 129, 252);
+}
+.sign:hover
+{
+    cursor: pointer;
+    color: rgb(135, 135, 255);
+}
+.ac
+{
+    margin-top: 10px;
+}
+.ac:hover
+{
+    cursor: pointer;
+    color: rgb(135, 135, 251);
+}
+.part-one
+{
+    margin-left: 25px;
+    margin-top: 00px;   
+}
+.la
+{
+    border-radius: 7px;
+}
+.main
+{
+    display: flex;
+}
+/* h4
+{
+    display:inline;
+} */
+.l
+{
+    border-radius: 40px;
+}
+.both
+{
+    display: flex;
+}
+.tai
+{
+    margin-left: 11px;
+}
+.baig
+{
+    margin-left: 44px;
+    margin-top: 7px;
+    color: #545252;
+}
+
+.bai
+{
+    margin-left: 44px;
+    margin-top:4px;
+    color: #545252;
+}
+.cards
+{
+    display: flex;
+}
+.card
+{
+    display: flex;
+}
+.car
+{
+    display: flex;
+}
